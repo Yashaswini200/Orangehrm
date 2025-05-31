@@ -1,4 +1,5 @@
  Automated Scenario
+ 
 🔐 1. Login Flow
 Open OrangeHRM.
 
