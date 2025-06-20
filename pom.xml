@@ -96,6 +96,7 @@
 <!--          </suiteXmlFiles>-->
 <!--        </configuration>-->
 <!--      </plugin>-->
+<!--      ki-->
     </plugins>
   </build>
 </project>
